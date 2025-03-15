@@ -1,3 +1,31 @@
 # Koloni Infrastructure
 
-Infrastructure strategies and CI/CD DevOps space
+This Terraform project is designed to demonstrate infrastructure-as-code principles,
+automating the deployment and management of cloud resources for the project
+Koloni.
+
+## Technologies Used
+
+- Terraform
+- Cloud provider services (e.g., AWS, Azure, GCP)
+
+## Usage
+
+1. Clone the repository.
+2. Configure your cloud provider credentials.
+3. Initialize Terraform:
+
+```sh
+terraform init
+```
+
+4. Plan and apply the configuration:
+
+```sh
+terraform plan
+terraform apply
+```
+
+## License
+
+This project is for demonstration purposes only.
