@@ -7,7 +7,7 @@ Koloni.
 ## Technologies Used
 
 - Terraform
-- Cloud provider services (e.g., AWS, Azure, GCP)
+- AWS Services: EKS + Fargate, custom VPC, RDS+KMS, S3, Secrets Manager,
 
 ## Usage
 
