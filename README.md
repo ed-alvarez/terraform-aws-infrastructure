@@ -1,12 +1,11 @@
-# Koloni Infrastructure
+# AWS Infrastructure
 
 This Terraform project is designed to demonstrate infrastructure-as-code principles,
-automating the deployment and management of cloud resources for the project
-Koloni.
+automating the deployment and management of cloud resources.
 
 ## Technologies Used
 
-- Terraform
+- Terraform + Helm
 - AWS Services: EKS + Fargate, custom VPC, RDS+KMS, S3, Secrets Manager,
 
 ## Usage
